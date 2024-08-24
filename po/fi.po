@@ -17,13 +17,14 @@
 # Tero Pelander, 2009
 # Tomi Toivio <tomi@sange.fi>, 2013
 # Kasvain <kasvain@gmail.com>, 2014-2015
+# Hiiri522 <hiiri.hiiri522@gmail.com>, 2024
 msgid ""
 msgstr ""
 "Project-Id-Version: VLC - Trans\n"
 "Report-Msgid-Bugs-To: vlc-devel@videolan.org\n"
 "POT-Creation-Date: 2017-12-06 02:55+0100\n"
 "PO-Revision-Date: 2017-02-06 13:43+0000\n"
-"Last-Translator: Christoph Miebach <christoph.miebach@web.de>\n"
+"Last-Translator: Hiiri522 <hiiri.hiiri522@gmail.com>\n"
 "Language-Team: Finnish (http://www.transifex.com/yaron/vlc-trans/language/"
 "fi/)\n"
 "Language: fi\n"
@@ -39,7 +40,7 @@ msgid ""
 "see the file named COPYING for details.\n"
 "Written by the VideoLAN team; see the AUTHORS file.\n"
 msgstr ""
-"Tällä ohjelmalla EI OLE TAKUUTA, joka ulottuu lain sallimiin rajoihin.\n"
+"Tällä ohjelmalla EI OLE TAKUUTA, joka ulottuisi lain sallimiin rajoihin.\n"
 "Saat jakaa ohjelmasta kopioita GNU General Public License -lisenssin ehtojen "
 "mukaisesti;\n"
 "ks. yksityiskohdat COPYING-tiedostossa.\n"
@@ -119,7 +120,7 @@ msgstr "Suodattimet"
 
 #: include/vlc_config_cat.h:59
 msgid "Audio filters are used to process the audio stream."
-msgstr "Äänisuodattimia käytetään äänivirran käsittelyyn."
+msgstr "Äänisuodattimia käytetään äänen käsittelyssä."
 
 #: include/vlc_config_cat.h:61 src/libvlc-module.c:166
 msgid "Audio resampler"
@@ -204,7 +205,7 @@ msgstr "Jakaja"
 
 #: include/vlc_config_cat.h:89
 msgid "Video splitters separate the stream into multiple videos."
-msgstr ""
+msgstr "Videon jakajat erottavat virran useiksi videoiksi."
 
 #: include/vlc_config_cat.h:97
 msgid "Input / Codecs"
@@ -213,7 +214,7 @@ msgstr "Lähteet ja koodekit"
 #: include/vlc_config_cat.h:98
 msgid "Settings for input, demultiplexing, decoding and encoding"
 msgstr ""
-"Tulon/lähteiden, kanavoinnin purun (demux), ja video- sekä äänenpakkauksen "
+"Tulonlähteiden, kanavoinnin purun (demux), ja video- sekä äänenpakkauksen "
 "asetukset."
 
 #: include/vlc_config_cat.h:101
